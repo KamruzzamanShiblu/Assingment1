@@ -1,0 +1,145 @@
+body{
+  font-family: 'Barlow', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+  margin: 0;
+  margin-left: 10px;
+}
+
+.section-one{
+      padding-left: 0;
+}
+.text-header{
+      position: absolute;
+      bottom: 20px;
+      right: 20px;
+      padding-left: 20px;
+      padding-right: 20px;
+      color: black;
+
+}
+.text-header{
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    padding-left: 600px;
+    padding-right: 20px;
+    color: black;
+}
+
+.button{
+    background-color: coral;
+}
+h1{
+    font-size: 45px;
+    width: 40%;
+}
+a{
+    text-decoration: none;
+}
+b{
+    background-color: solid,orange;
+
+}
+
+
+
+.section-second{
+    display: flex;
+}
+.third-section{
+    display: flex;
+}
+.third-main{
+    display: flex;
+}
+.my-plane{
+    text-align: center;
+    padding-left: 400px;
+    margin-bottom: 35px;
+    
+    
+}
+.site-one{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 30px;
+}
+
+.one{
+    margin-right: 20px;
+}
+.two{
+    margin-right: 20px;
+}
+.three{
+    margin-right: 20px;
+}
+.four{
+    margin-right: 20px;
+}
+.maindiv{
+    position: relative;
+    
+    
+    
+    
+    
+
+  
+}
+.gradient{
+    position: absolute;
+    top: 0;
+    width: 100%;
+
+}
+.button-text{
+position: absolute;
+bottom: 20px;
+right: 20px;
+margin-right: 600px;
+margin-bottom: 9%;
+color: white
+
+}
+.onekjalaisos{
+    height: 30px;
+    color:orange
+   background-color: snow
+   
+   
+   
+   
+}
+.end-section{
+    display: flex;
+    margin-top: 80px;
+}
+.endpera{
+    padding-left: 10px;
+    text-align: left;
+    color: aliceblue;
+}
+.subscribe{
+    color: aliceblue;
+}
+.rong
+{
+    background-color: rgb(4, 0, 255);
+    color:white
+    padding-left: 12px;
+    height: 20px;
+
+}
+.lastkotha{
+    background-color: black;
+    color: solid white;
+}
+.box{
+    border-radius: 3px;
+    width: 300px;
+    height: 40px;
+}
